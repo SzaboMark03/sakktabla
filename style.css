@@ -1,0 +1,40 @@
+td{
+    background-color: darkgreen;
+    height: 100px;
+    width: 100px;
+}
+
+
+
+    th{
+        background-color: rgb(229, 236, 206);
+        height: 100px;
+        width: 100px;
+    }
+
+
+ table{
+    border: black solid;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+    body{
+        background-color: black;
+    }
+
+
+
+    img{
+        height: 100px;
+        width: 100px;
+    }
+
+
+h1{
+    color: white;
+   text-align: center ;
+}
